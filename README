@@ -1,0 +1,2 @@
+AWS SDK.NET を使ったS3へのcopy tool です。
+Build には、http://aws.amazon.com/sdkfornet/ で提供される AWS SDK.NET が必要です。
